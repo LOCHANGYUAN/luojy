@@ -2,13 +2,13 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="/Users/luojy/Documents/commonLib/commons-collections4-4.1.jar"/>
-	<classpathentry kind="lib" path="/Users/luojy/Documents/commonLib/jsoup-1.8.3.jar"/>
-	<classpathentry kind="lib" path="/Users/luojy/Documents/commonLib/log4j-1.2.9.jar"/>
-	<classpathentry kind="lib" path="/Users/luojy/Documents/commonLib/commons-lang3-3.4.jar"/>
-	<classpathentry kind="lib" path="/Users/luojy/Documents/commonLib/vt-crypt-2.2.jar"/>
-	<classpathentry kind="lib" path="/Users/luojy/Documents/commonLib/vt-password-3.1.2.jar"/>
-	<classpathentry kind="lib" path="/Users/luojy/Documents/commonLib/commons-io-2.4.jar"/>
-	<classpathentry kind="lib" path="/Users/luojy/Documents/commonLib/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="lib/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="lib/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.9.jar"/>
+	<classpathentry kind="lib" path="lib/vt-crypt-2.2.jar"/>
+	<classpathentry kind="lib" path="lib/vt-password-3.1.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
